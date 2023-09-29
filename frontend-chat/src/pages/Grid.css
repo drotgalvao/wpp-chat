@@ -1,0 +1,71 @@
+/* footer {
+    background-color: aqua;
+}
+
+section {
+    background-color: aquamarine;
+}
+
+nav {
+    background-color: burlywood;
+}
+
+article {
+    background-color: cadetblue;
+}
+
+header {
+    background-color: chartreuse;
+}
+
+main {
+    background-color: coral;
+    
+}
+
+.grid-wrapper > * {
+    min-height: 70px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin: 10px; */
+}
+
+/* .grid-wrapper {
+    display: grid;
+    grid-template-rows: repeat(4, auto);
+    grid-template-columns: 240px 1fr;
+    gap: 5px;
+    /* height: 100vh; */
+    
+}
+
+/* header {
+    grid-column: 1 / 5;
+}
+
+nav {
+    grid-row: 2 / -1;
+}
+
+section {
+    grid-column: 2 / 5;
+} */
+
+/* footer {
+    grid-column: 1 / 5;
+    grid-row: 5 / 6;
+}
+
+.grid-wrapper > main {
+    display: grid;
+    grid-auto-rows: auto;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+article {
+    min-height: 100px;
+    border-radius: 4px;
+} */ */ */
